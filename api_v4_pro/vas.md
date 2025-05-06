@@ -1,5 +1,4 @@
-```markdown
-# VAS API 文档
+#本篇为pro前端源码文件 vas.ts API 文档
 
 本文档描述了 `vas.ts` 文件中定义的所有接口、枚举和类型。
 
