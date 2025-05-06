@@ -178,4 +178,3 @@ export const NavigatorCapability = {
 - `type: string` - 查看器类型，例如 `builtin`、`wopi` 或 `custom`。
 - `exts: string[]` - 支持的文件扩展名列表。
 - `wopi_actions?: { [key: string]: object }` - WOPI 操作配置（如果 `type` 为 `wopi`）。
-```

@@ -75,4 +75,3 @@ export const DavAccountOption = {
 **可选值：**
 - `readonly`: `0`（只读模式）
 - `proxy`: `1`（代理模式）
-```

@@ -90,4 +90,3 @@ const imageViewer: ViewerGroup = {
 ```
 
 > 注意：示例中的部分类型（如 `User`、`StorageProduct`）需要从对应模块导入完整的类型定义后使用。
-```

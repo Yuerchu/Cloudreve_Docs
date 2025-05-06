@@ -202,9 +202,6 @@
 | points   | 积分支付           |
 | custom   | 自定义支付方式     |
 
-```
-```markdown
-
 ---
 
 ## 接口列表
@@ -342,6 +339,4 @@ const paymentResponse: CreatePaymentResponse = {
     }
   }
 }
-```
-
 ```
