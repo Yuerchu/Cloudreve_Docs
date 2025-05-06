@@ -1,5 +1,4 @@
-```markdown
-# setting.ts API 文档
+# 本篇为 pro前端源码文件 setting.ts API 文档
 
 ## 类型导入
 ```typescript
