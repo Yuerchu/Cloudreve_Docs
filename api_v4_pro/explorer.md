@@ -1,6 +1,4 @@
-```markdown
-
-本文档描述了 Cloudreve Pro Explorer API 中使用的关键接口定义、枚举类型和核心服务接口。
+# 本篇描述了 Cloudreve Pro Explorer API 中使用的关键接口定义、枚举类型和核心服务接口。
 
 ## 接口定义
 
