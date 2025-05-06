@@ -1,5 +1,4 @@
-```markdown
-# site.ts API 文档
+# site.ts API 请求示例文档
 
 ## 枚举
 
