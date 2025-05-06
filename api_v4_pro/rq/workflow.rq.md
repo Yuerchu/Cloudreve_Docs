@@ -1,4 +1,4 @@
-# workflow.ts API 文档（补充请求示例）
+# workflow.ts API 文档（请求示例）
 
 ---
 
