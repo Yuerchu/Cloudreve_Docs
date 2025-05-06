@@ -1,5 +1,5 @@
-```markdown
-# Share API 文档（补充请求示例）
+
+# share.ts API 请求示例文档
 
 ---
 
