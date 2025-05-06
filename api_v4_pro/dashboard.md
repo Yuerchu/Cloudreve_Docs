@@ -1,4 +1,4 @@
-```markdown
+
 # Dashboard API 文档
 
 ## 目录
